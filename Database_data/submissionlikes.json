@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "6133373d5de9df2d9ac6a0bb"
+  },
+  "submission": {
+    "$oid": "6132deb6dd349be35dbfdfbc"
+  },
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133377a1b2d36762baa4a78"
+  },
+  "submission": {
+    "$oid": "6132deb6dd349be35dbfdfbc"
+  },
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613339dfd8e08b72c678b149"
+  },
+  "submission": {
+    "$oid": "6132deb6dd349be35dbfdfbc"
+  },
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d2014ce358bc12fc847d"
+  },
+  "submission": {
+    "$oid": "61333a5fd8e08b72c678b150"
+  },
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d22e4ce358bc12fc8482"
+  },
+  "submission": {
+    "$oid": "6133cc4a2445f55da95fa513"
+  },
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d2404ce358bc12fc8487"
+  },
+  "submission": {
+    "$oid": "6133cc612445f55da95fa518"
+  },
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d2644ce358bc12fc848c"
+  },
+  "submission": {
+    "$oid": "6133ccb82445f55da95fa545"
+  },
+  "author": {
+    "$oid": "61327ce82dd3a6b1b6c63b7a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d27d4ce358bc12fc8491"
+  },
+  "submission": {
+    "$oid": "6133ccbd2445f55da95fa54a"
+  },
+  "author": {
+    "$oid": "61327ce82dd3a6b1b6c63b7a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d2b04ce358bc12fc8496"
+  },
+  "submission": {
+    "$oid": "6133ccfa2445f55da95fa577"
+  },
+  "author": {
+    "$oid": "61327cf72dd3a6b1b6c63b7c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d2bd4ce358bc12fc849b"
+  },
+  "submission": {
+    "$oid": "6133cd192445f55da95fa57c"
+  },
+  "author": {
+    "$oid": "61327cf72dd3a6b1b6c63b7c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d2de4ce358bc12fc84a0"
+  },
+  "submission": {
+    "$oid": "6133cd592445f55da95fa5a9"
+  },
+  "author": {
+    "$oid": "61327cfe2dd3a6b1b6c63b7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d2e94ce358bc12fc84a5"
+  },
+  "submission": {
+    "$oid": "6133cd5e2445f55da95fa5ae"
+  },
+  "author": {
+    "$oid": "61327cfe2dd3a6b1b6c63b7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d31d4ce358bc12fc84aa"
+  },
+  "submission": {
+    "$oid": "6133cdb52445f55da95fa5db"
+  },
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133d32a4ce358bc12fc84af"
+  },
+  "submission": {
+    "$oid": "6133cdbc2445f55da95fa5e0"
+  },
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0
+}]

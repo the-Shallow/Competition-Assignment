@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "61327dd22dd3a6b1b6c63b84"
+  },
+  "name": "competition1",
+  "description": "About competition1",
+  "author": {
+    "$oid": "61327d092dd3a6b1b6c63b82"
+  },
+  "__v": 0,
+  "submissions": 10
+},{
+  "_id": {
+    "$oid": "61327ea42dd3a6b1b6c63b86"
+  },
+  "name": "competition2",
+  "description": "About competition2",
+  "author": {
+    "$oid": "61327ce82dd3a6b1b6c63b7a"
+  },
+  "__v": 0,
+  "submissions": 10
+},{
+  "_id": {
+    "$oid": "61327ebf2dd3a6b1b6c63b88"
+  },
+  "name": "competition3",
+  "description": "About competition3",
+  "author": {
+    "$oid": "61327cf72dd3a6b1b6c63b7c"
+  },
+  "__v": 0,
+  "submissions": 10
+},{
+  "_id": {
+    "$oid": "61327ee72dd3a6b1b6c63b8a"
+  },
+  "name": "competition4",
+  "description": "About competition4",
+  "author": {
+    "$oid": "61327cfe2dd3a6b1b6c63b7e"
+  },
+  "__v": 0,
+  "submissions": 10
+},{
+  "_id": {
+    "$oid": "61327efa2dd3a6b1b6c63b8c"
+  },
+  "name": "competition5",
+  "description": "About competition5",
+  "author": {
+    "$oid": "61327d032dd3a6b1b6c63b80"
+  },
+  "__v": 0,
+  "submissions": 11
+}]
