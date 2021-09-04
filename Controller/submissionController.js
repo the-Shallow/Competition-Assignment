@@ -12,7 +12,7 @@ exports.createSubmission = async (req, res, next) => {
 };
 
 exports.getAllSubmissions = async (req, res, next) => {
-  const submissions = await Submission.findById(req.params.id);
+    const submissions = await Submission.find({ competition: req.params.id  } );
 
   res.status(200).json({
     status: "success",
